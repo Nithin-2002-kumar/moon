@@ -1,0 +1,22 @@
+2025-04-27 12:44:13,127 - INFO - Could not import comtypes.gen, trying to create it.
+2025-04-27 12:44:13,127 - INFO - Created comtypes.gen directory: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen'
+2025-04-27 12:44:13,128 - INFO - Writing __init__.py file: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen\__init__.py'
+2025-04-27 12:44:13,141 - INFO - Using writeable comtypes cache directory: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen'
+2025-04-27 12:44:13,168 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-04-27 12:44:13,172 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-04-27 12:44:13,229 - INFO - # Generating comtypes.gen.SpeechLib
+2025-04-27 12:44:13,234 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-04-27 12:44:13,235 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-04-27 12:44:13,239 - INFO - # Generating comtypes.gen.stdole
+2025-04-27 13:03:53,261 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\KANUN\\PycharmProjects\\App\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 13:03:53,261 - INFO - Using writeable comtypes cache directory: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen'
+2025-04-27 13:05:25,710 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\KANUN\\PycharmProjects\\App\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 13:05:25,710 - INFO - Using writeable comtypes cache directory: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen'
+2025-04-27 13:06:16,198 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\KANUN\\PycharmProjects\\App\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 13:06:16,199 - INFO - Using writeable comtypes cache directory: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen'
+2025-04-27 13:15:34,240 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\KANUN\\PycharmProjects\\App\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 13:15:34,241 - INFO - Using writeable comtypes cache directory: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen'
+2025-04-27 15:20:16,414 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\KANUN\\PycharmProjects\\App\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 15:20:16,415 - INFO - Using writeable comtypes cache directory: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen'
+2025-04-27 15:23:57,075 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\KANUN\\PycharmProjects\\App\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 15:23:57,075 - INFO - Using writeable comtypes cache directory: 'C:\Users\KANUN\PycharmProjects\App\.venv\Lib\site-packages\comtypes\gen'

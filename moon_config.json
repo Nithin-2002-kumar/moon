@@ -1,0 +1,17 @@
+{
+    "wake_word": "moon",
+    "hotword": "moon",
+    "speech_rate": 170,
+    "voice": 0,
+    "weather_api_key": "YOUR_OPENWEATHERMAP_API_KEY",
+    "wolfram_api_key": "YOUR_WOLFRAM_ALPHA_KEY",
+    "openai_api_key": "YOUR_OPENAI_API_KEY",
+    "email_user": "your_email@gmail.com",
+    "email_pass": "your_app_password",
+    "known_faces": {},
+    "use_memory": true,
+    "default_user": {
+        "speech_rate": 170,
+        "greeting": "sir"
+    }
+}
